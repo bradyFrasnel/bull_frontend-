@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,J as c}from"./BCOTYKtP.js";const a={},n={class:"empty-layout"};function r(e,d){return o(),s("div",n,[c(e.$slots,"default",{},void 0)])}const f=t(a,[["render",r],["__scopeId","data-v-d9035f66"]]);export{f as default};
